@@ -1,0 +1,10 @@
+{
+  "name": "cypress_web",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "chrome": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
